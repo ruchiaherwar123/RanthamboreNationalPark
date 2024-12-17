@@ -1,0 +1,174 @@
+/**
+ * Widegts styling
+ *
+ */
+
+ /**********************
+    Heading field
+ ***********************/
+ .blogig-heading-field {
+    border-top: 1px double rgb(0 0 0 / 25%);
+    border-bottom: 1px double rgb(0 0 0 / 25%);
+    text-transform: uppercase;
+    background-color: #eeeeee;
+    width: 100%;
+    margin-left: -10px;
+    padding: 6px 20px;
+ }
+
+ .blogig-heading-field .heading {
+    margin: 0;
+    text-align: center;
+    font-size: 12px;
+    letter-spacing: 2px;
+ }
+
+ .blogig-widget-field {
+   margin: 1em 0;
+ }
+
+ .blogig-widget-field .title {
+    font-size: small;
+    margin: 4px 0;
+ }
+
+ .blogig-widget-field .description {
+   font-style: italic;
+   padding: 0!important;
+ }
+
+ .blogig-multicheckbox-field .multicheckbox-content {
+   border: 1px solid #c3c4c7;
+   padding: 8px 10px;
+   min-height: 200px;
+   overflow-y: scroll;
+ }
+
+ .blogig-multicheckbox-field .multicheckbox-content .multicheckbox-single-item {
+   padding: 5px;
+ }
+
+ .blogig-widget-field input,
+ .blogig-widget-field select,
+ .blogig-widget-field textarea {
+   border-radius: 0;
+ }
+
+ .blogig-upload-field .upload-trigger.selected,
+ .blogig-upload-field .upload-buttons img.nothasImage,
+ .blogig-upload-field .upload-buttons.not-selected {
+   display: none;
+ }
+
+ .blogig-upload-field .upload-trigger {
+    background-color: #f0f0f1;
+    color: #2c3338;
+    border: 1px dashed #c3c4c7;
+    box-sizing: border-box;
+    cursor: pointer;
+    line-height: 1.6;
+    padding: 9px 0;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+
+.blogig-upload-field .upload-trigger:hover {
+  background-color: #fff;
+}
+
+.blogig-upload-field .upload-buttons button {
+  margin-top: 12px;
+  border-color: #d63638;
+}
+.blogig-upload-field .upload-buttons img{
+  width: 100%;
+}
+
+.blogig-widget-field .refer-note a {
+  color: #2271b1;
+}
+
+.blogig-icon-text-field .icon-selector-wrap {
+  display: none;
+}
+
+/* tab selector */
+.blogig-widget-field.blogig-icon-text-field .field-group-wrap .icon-selector i:after {
+  display: inline-block;
+  font-family: "Font Awesome 5 Free";
+  content: "\f107";
+  font-style: normal;
+  font-size: 14px;
+  font-weight: 900;
+  line-height: 1;
+  color: var(--white-text);
+  margin-left: 8px;
+  vertical-align: middle;
+}
+
+.blogig-widget-field.blogig-icon-text-field .field-group-wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.blogig-widget-field.blogig-icon-text-field .field-group-wrap .icon-field {
+  flex: 1;
+  border: 1px solid #6a6a6a;
+  margin-right: 10px;
+  text-align: center;
+  padding-top: 5px;
+  border-radius: 4px;
+}
+
+.blogig-widget-field.blogig-icon-text-field .field-group-wrap .icon-field:hover {
+  cursor: pointer;
+}
+
+.blogig-widget-field.blogig-icon-text-field .field-group-wrap .icon-selector-wrap {
+  margin-top: 5px;
+  padding: 10px;
+  border: 1px solid #545454;
+  border-radius: 5px;;
+}
+
+.blogig-widget-field.blogig-icon-text-field .field-group-wrap .icon-selector-wrap i {
+  color: #545454;
+  padding: 5px;
+}
+
+.blogig-widget-field.blogig-icon-text-field .field-group-wrap .icon-selector-wrap i:hover {
+  color: #000;
+  cursor: pointer;
+}
+
+
+
+/** widget imae ratio and border radius **/
+
+.blogig-widget-field.blogig-responsive-number-field .widget-heading-wrap {
+  position: relative;
+}
+
+.blogig-widget-field.blogig-responsive-number-field .responsive-devices {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.blogig-widget-field.blogig-responsive-number-field .responsive-devices:hover {
+  cursor: pointer;
+}
+
+.blogig-widget-field.blogig-responsive-number-field .responsive-devices span {
+  color: #656363
+}
+
+.blogig-widget-field.blogig-responsive-number-field .responsive-devices span.isActive {
+  color: #0994d9;
+}
+
+.blogig-widget-field.blogig-responsive-number-field .responsive-fields-wrapper input.tablet-field,
+.blogig-widget-field.blogig-responsive-number-field .responsive-fields-wrapper input.smartphone-field{
+  display: none;
+}

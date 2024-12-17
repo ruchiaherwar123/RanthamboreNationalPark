@@ -1,0 +1,306 @@
+[27-May-2024 05:35:04 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_objects' doesn't exist for query SELECT * FROM wpqn_rank_math_analytics_objects WHERE object_id = '19' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_post, RankMath\Analytics\Posts->get_post, RankMath\Admin\Database\Query_Builder->one
+[27-May-2024 05:35:08 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_objects' doesn't exist for query SELECT * FROM wpqn_rank_math_analytics_objects WHERE object_id = '19' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_post, RankMath\Analytics\Posts->get_post, RankMath\Admin\Database\Query_Builder->one
+[27-May-2024 08:06:01 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_objects' doesn't exist for query SELECT * FROM wpqn_rank_math_analytics_objects WHERE object_id = '19' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_post, RankMath\Analytics\Posts->get_post, RankMath\Admin\Database\Query_Builder->one
+[27-May-2024 08:14:00 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wpqn_rank_math_analytics_gsc WHERE created BETWEEN '2024-04-21 00:00:00' AND '2024-05-24 23:59:59' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Rest\Admin->dashboard_widget_items, RankMath\Rest\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics_Common->dashboard_widget, RankMath\Analytics\Analytics_Common->get_dashboard_widget_items, RankMath\Analytics\Summary->get_widget, RankMath\Admin\Database\Query_Builder->one
+[27-May-2024 08:14:00 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wpqn_rank_math_analytics_gsc WHERE created BETWEEN '2024-03-18 00:00:00' AND '2024-04-20 23:59:59' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Rest\Admin->dashboard_widget_items, RankMath\Rest\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics_Common->dashboard_widget, RankMath\Analytics\Analytics_Common->get_dashboard_widget_items, RankMath\Analytics\Summary->get_widget, RankMath\Admin\Database\Query_Builder->one
+[27-May-2024 08:14:00 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(query))
+				FROM wpqn_rank_math_analytics_gsc
+				WHERE created BETWEEN '2024-04-21 00:00:00' AND '2024-05-24 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Rest\Admin->dashboard_widget_items, RankMath\Rest\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics_Common->dashboard_widget, RankMath\Analytics\Analytics_Common->get_dashboard_widget_items, RankMath\Analytics\Summary->get_widget, RankMath\Analytics\Summary->get_keywords_summary
+[27-May-2024 08:14:00 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(query))
+				FROM wpqn_rank_math_analytics_gsc
+				WHERE created BETWEEN '2024-03-18 00:00:00' AND '2024-04-20 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Rest\Admin->dashboard_widget_items, RankMath\Rest\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics_Common->dashboard_widget, RankMath\Analytics\Analytics_Common->get_dashboard_widget_items, RankMath\Analytics\Summary->get_widget, RankMath\Analytics\Summary->get_keywords_summary
+[27-May-2024 08:20:08 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_objects' doesn't exist for query SELECT * FROM wpqn_rank_math_analytics_objects WHERE object_id = '19' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_post, RankMath\Analytics\Posts->get_post, RankMath\Admin\Database\Query_Builder->one
+[27-May-2024 08:20:40 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_objects' doesn't exist for query SELECT * FROM wpqn_rank_math_analytics_objects WHERE object_id = '19' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_post, RankMath\Analytics\Posts->get_post, RankMath\Admin\Database\Query_Builder->one
+[27-May-2024 11:10:24 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_objects' doesn't exist for query SELECT * FROM wpqn_rank_math_analytics_objects WHERE object_id = '19' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_post, RankMath\Analytics\Posts->get_post, RankMath\Admin\Database\Query_Builder->one
+[27-May-2024 11:11:43 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_objects' doesn't exist for query SELECT * FROM wpqn_rank_math_analytics_objects WHERE object_id = '19' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_post, RankMath\Analytics\Posts->get_post, RankMath\Admin\Database\Query_Builder->one
+[28-May-2024 06:53:46 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_objects' doesn't exist for query SELECT * FROM wpqn_rank_math_analytics_objects WHERE object_id = '19' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_post, RankMath\Analytics\Posts->get_post, RankMath\Admin\Database\Query_Builder->one
+[28-May-2024 11:35:31 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_objects' doesn't exist for query SELECT * FROM wpqn_rank_math_analytics_objects WHERE object_id = '19' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_post, RankMath\Analytics\Posts->get_post, RankMath\Admin\Database\Query_Builder->one
+[28-May-2024 11:51:05 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_objects' doesn't exist for query SELECT * FROM wpqn_rank_math_analytics_objects WHERE object_id = '19' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_post, RankMath\Analytics\Posts->get_post, RankMath\Admin\Database\Query_Builder->one
+[28-May-2024 11:58:29 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_objects' doesn't exist for query SELECT * FROM wpqn_rank_math_analytics_objects WHERE object_id = '19' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_post, RankMath\Analytics\Posts->get_post, RankMath\Admin\Database\Query_Builder->one
+[11-Jun-2024 06:29:03 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_objects' doesn't exist for query SELECT * FROM wpqn_rank_math_analytics_objects WHERE object_id = '42' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_post, RankMath\Analytics\Posts->get_post, RankMath\Admin\Database\Query_Builder->one
+[11-Jun-2024 06:50:14 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_objects' doesn't exist for query SELECT * FROM wpqn_rank_math_analytics_objects WHERE object_id = '19' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_post, RankMath\Analytics\Posts->get_post, RankMath\Admin\Database\Query_Builder->one
+[11-Jun-2024 06:52:43 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_objects' doesn't exist for query SELECT * FROM wpqn_rank_math_analytics_objects WHERE object_id = '42' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_post, RankMath\Analytics\Posts->get_post, RankMath\Admin\Database\Query_Builder->one
+[11-Jun-2024 07:02:20 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_objects' doesn't exist for query SELECT * FROM wpqn_rank_math_analytics_objects WHERE object_id = '42' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_post, RankMath\Analytics\Posts->get_post, RankMath\Admin\Database\Query_Builder->one
+[11-Jun-2024 07:33:51 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_objects' doesn't exist for query SELECT * FROM wpqn_rank_math_analytics_objects WHERE object_id = '42' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_post, RankMath\Analytics\Posts->get_post, RankMath\Admin\Database\Query_Builder->one
+[04-Jul-2024 05:28:57 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wpqn_rank_math_analytics_gsc WHERE created BETWEEN '2024-05-29 00:00:00' AND '2024-07-01 23:59:59' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Rest\Admin->dashboard_widget_items, RankMath\Rest\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics_Common->dashboard_widget, RankMath\Analytics\Analytics_Common->get_dashboard_widget_items, RankMath\Analytics\Summary->get_widget, RankMath\Admin\Database\Query_Builder->one
+[04-Jul-2024 05:28:57 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wpqn_rank_math_analytics_gsc WHERE created BETWEEN '2024-04-25 00:00:00' AND '2024-05-28 23:59:59' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Rest\Admin->dashboard_widget_items, RankMath\Rest\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics_Common->dashboard_widget, RankMath\Analytics\Analytics_Common->get_dashboard_widget_items, RankMath\Analytics\Summary->get_widget, RankMath\Admin\Database\Query_Builder->one
+[04-Jul-2024 05:28:57 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(query))
+				FROM wpqn_rank_math_analytics_gsc
+				WHERE created BETWEEN '2024-05-29 00:00:00' AND '2024-07-01 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Rest\Admin->dashboard_widget_items, RankMath\Rest\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics_Common->dashboard_widget, RankMath\Analytics\Analytics_Common->get_dashboard_widget_items, RankMath\Analytics\Summary->get_widget, RankMath\Analytics\Summary->get_keywords_summary
+[04-Jul-2024 05:28:57 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(query))
+				FROM wpqn_rank_math_analytics_gsc
+				WHERE created BETWEEN '2024-04-25 00:00:00' AND '2024-05-28 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Rest\Admin->dashboard_widget_items, RankMath\Rest\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics_Common->dashboard_widget, RankMath\Analytics\Analytics_Common->get_dashboard_widget_items, RankMath\Analytics\Summary->get_widget, RankMath\Analytics\Summary->get_keywords_summary
+[04-Jul-2024 05:33:06 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(t1.query) AS total,
+				CASE
+					WHEN t1.position BETWEEN 1 AND 3 THEN 'top3'
+					WHEN t1.position BETWEEN 4 AND 10 THEN 'top10'
+					WHEN t1.position BETWEEN 11 AND 50 THEN 'top50'
+					WHEN t1.position BETWEEN 51 AND 100 THEN 'top100'
+					ELSE 'none'
+				END AS position_type
+			FROM (SELECT query, ROUND( AVG(position), 0 ) AS position 
+				FROM wpqn_rank_math_analytics_gsc
+				WHERE created BETWEEN '2024-05-29 00:00:00' AND '2024-07-01 23:59:59' AND DATE(created) = (SELECT MAX(DATE(created)) FROM wpqn_rank_math_analytics_gsc WHERE created BETWEEN '2024-05-29 00:00:00' AND '2024-07-01 23:59:59')
+				GROUP BY query 
+				ORDER BY position) as t1
+			GROUP BY position_type made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_keywords_overview, RankMath\Analytics\Keywords->get_top_keywords
+[04-Jul-2024 05:33:06 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(t1.query) AS total,
+				CASE
+					WHEN t1.position BETWEEN 1 AND 3 THEN 'top3'
+					WHEN t1.position BETWEEN 4 AND 10 THEN 'top10'
+					WHEN t1.position BETWEEN 11 AND 50 THEN 'top50'
+					WHEN t1.position BETWEEN 51 AND 100 THEN 'top100'
+					ELSE 'none'
+				END AS position_type
+			FROM (SELECT query, ROUND( AVG(position), 0 ) AS position 
+				FROM wpqn_rank_math_analytics_gsc
+				WHERE created BETWEEN '2024-04-25 00:00:00' AND '2024-05-28 23:59:59' AND DATE(created) = (SELECT MAX(DATE(created)) FROM wpqn_rank_math_analytics_gsc WHERE created BETWEEN '2024-04-25 00:00:00' AND '2024-05-28 23:59:59')
+				GROUP BY query 
+				ORDER BY position) as t1
+			GROUP BY position_type made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_keywords_overview, RankMath\Analytics\Keywords->get_top_keywords
+[04-Jul-2024 05:33:06 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT AVG(ctr) AS ctr FROM wpqn_rank_math_analytics_gsc WHERE created BETWEEN '2024-05-29 00:00:00' AND '2024-07-01 23:59:59' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_keywords_overview, RankMath\Analytics\Keywords->get_top_keywords, RankMath\Admin\Database\Query_Builder->getVar, RankMath\Admin\Database\Query_Builder->one
+[04-Jul-2024 05:33:06 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT AVG(ctr) AS ctr FROM wpqn_rank_math_analytics_gsc WHERE created BETWEEN '2024-04-25 00:00:00' AND '2024-05-28 23:59:59' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_keywords_overview, RankMath\Analytics\Keywords->get_top_keywords, RankMath\Admin\Database\Query_Builder->getVar, RankMath\Admin\Database\Query_Builder->one
+[04-Jul-2024 05:33:06 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT MAX(DATE(created)) as date, CASE WHEN created BETWEEN '2024-06-01 00:00:00' AND '2024-06-06 23:59:59' THEN 'range1' WHEN created BETWEEN '2024-06-07 00:00:00' AND '2024-06-12 23:59:59' THEN 'range2' WHEN created BETWEEN '2024-06-13 00:00:00' AND '2024-06-18 23:59:59' THEN 'range3' WHEN created BETWEEN '2024-06-19 00:00:00' AND '2024-06-24 23:59:59' THEN 'range4' WHEN created BETWEEN '2024-06-25 00:00:00' AND '2024-07-01 23:59:59' THEN 'range5' ELSE 'none' END AS 'range_group'
+			FROM wpqn_rank_math_analytics_gsc
+			WHERE created BETWEEN '2024-05-29 00:00:00' AND '2024-07-01 23:59:59'
+			GROUP BY range_group made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_keywords_overview, RankMath\Analytics\Keywords->get_top_position_graph
+[04-Jul-2024 05:33:07 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(page)) AS posts, SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wpqn_rank_math_analytics_gsc WHERE created BETWEEN '2024-05-29 00:00:00' AND '2024-07-01 23:59:59' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_dashboard, RankMath\Analytics\Summary->get_analytics_summary, RankMath\Admin\Database\Query_Builder->one
+[04-Jul-2024 05:33:07 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "clicks" on null in /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-content/plugins/seo-by-rank-math/includes/modules/analytics/class-summary.php:225
+Stack trace:
+#0 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-content/plugins/seo-by-rank-math/includes/modules/analytics/rest/class-rest.php(162): RankMath\Analytics\Summary->get_analytics_summary()
+#1 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api/class-wp-rest-server.php(1193): RankMath\Analytics\Rest->get_dashboard()
+#2 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request()
+#3 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch()
+#4 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api.php(424): WP_REST_Server->serve_request()
+#5 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp-hook.php(324): rest_api_loaded()
+#6 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#7 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/plugin.php(565): WP_Hook->do_action()
+#8 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp.php(418): do_action_ref_array()
+#9 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp.php(813): WP->parse_request()
+#10 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/functions.php(1336): WP->main()
+#11 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-blog-header.php(16): wp()
+#12 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/index.php(17): require('/home/bandhavg/...')
+#13 {main}
+  thrown in /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-content/plugins/seo-by-rank-math/includes/modules/analytics/class-summary.php on line 225
+[04-Jul-2024 05:33:23 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_objects' doesn't exist for query SELECT * FROM wpqn_rank_math_analytics_objects 
+			WHERE is_indexable = 1 
+			 
+			ORDER BY created DESC
+			LIMIT 0 , 25 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Posts->get_posts_rows_by_objects, RankMath\Analytics\Objects->get_objects_by_score
+[04-Jul-2024 05:33:23 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_objects' doesn't exist for query SELECT count(*) FROM wpqn_rank_math_analytics_objects 
+			WHERE is_indexable = 1 
+			
+			ORDER BY created DESC made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Posts->get_posts_rows_by_objects, RankMath\Analytics\Objects->get_objects_by_score
+[04-Jul-2024 05:33:23 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT page, MAX(CONCAT(page, ':', DATE(created), ':', LPAD((100 - position), 3, '0'))) as uid
+				FROM wpqn_rank_math_analytics_gsc 
+				WHERE created BETWEEN '2024-05-29 00:00:00' AND '2024-07-01 23:59:59'  AND page IN ('')
+				GROUP BY page made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Posts->get_posts_rows_by_objects, RankMath\Analytics\Stats->get_analytics_data, RankMath\Analytics\Stats->get_position_data_by_dimension
+[04-Jul-2024 05:33:23 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(wpqn_rank_math_analytics_gsc.page)) AS posts, SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(ctr) AS ctr FROM wpqn_rank_math_analytics_gsc WHERE wpqn_rank_math_analytics_gsc.created BETWEEN '2024-05-29 00:00:00' AND '2024-07-01 23:59:59' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Summary->get_posts_summary, RankMath\Admin\Database\Query_Builder->one
+[04-Jul-2024 05:33:23 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT page, MAX(CONCAT(page, ':', DATE(created), ':', LPAD((100 - position), 3, '0'))) as uid
+				FROM wpqn_rank_math_analytics_gsc 
+				WHERE created BETWEEN '2024-04-25 00:00:00' AND '2024-05-28 23:59:59' 
+				GROUP BY page made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Posts->get_posts_rows_by_objects, RankMath\Analytics\Stats->get_analytics_data, RankMath\Analytics\Stats->get_position_data_by_dimension
+[04-Jul-2024 05:33:23 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT
+				t1.page as page, t1.clicks, t1.impressions, t1.ctr,
+				COALESCE( t1.clicks - t2.clicks, 0 ) as diffClicks,
+				COALESCE( t1.impressions - t2.impressions, 0 ) as diffImpressions,
+				COALESCE( t1.ctr - t2.ctr, 0 ) as diffCtr
+			FROM
+				( SELECT page, SUM( clicks ) as clicks, SUM(impressions) as impressions, AVG(ctr) as ctr
+					FROM wpqn_rank_math_analytics_gsc
+					WHERE 1 = 1 AND created BETWEEN '2024-05-29 00:00:00' AND '2024-07-01 23:59:59'  AND page IN ('')
+					GROUP BY page) as t1
+			LEFT JOIN
+				( SELECT page, SUM( clicks ) as clicks, SUM(impressions) as impressions, AVG(ctr) as ctr
+					FROM wpqn_rank_math_analytics_gsc
+					WHERE 1 = 1 AND created BETWEEN '2024-04-25 00:00:00' AND '2024-05-28 23:59:59'  AND page IN ('')
+					GROUP BY page) as t2
+			ON t1.page = t2.page made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Posts->get_posts_rows_by_objects, RankMath\Analytics\Stats->get_analytics_data, RankMath\Analytics\Stats->get_metrics_data_by_dimension
+[04-Jul-2024 06:06:53 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(page)) AS posts, SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wpqn_rank_math_analytics_gsc WHERE created BETWEEN '2024-05-29 00:00:00' AND '2024-07-01 23:59:59' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_dashboard, RankMath\Analytics\Summary->get_analytics_summary, RankMath\Admin\Database\Query_Builder->one
+[04-Jul-2024 06:06:53 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "clicks" on null in /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-content/plugins/seo-by-rank-math/includes/modules/analytics/class-summary.php:225
+Stack trace:
+#0 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-content/plugins/seo-by-rank-math/includes/modules/analytics/rest/class-rest.php(162): RankMath\Analytics\Summary->get_analytics_summary()
+#1 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api/class-wp-rest-server.php(1193): RankMath\Analytics\Rest->get_dashboard()
+#2 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request()
+#3 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch()
+#4 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api.php(424): WP_REST_Server->serve_request()
+#5 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp-hook.php(324): rest_api_loaded()
+#6 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#7 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/plugin.php(565): WP_Hook->do_action()
+#8 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp.php(418): do_action_ref_array()
+#9 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp.php(813): WP->parse_request()
+#10 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/functions.php(1336): WP->main()
+#11 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-blog-header.php(16): wp()
+#12 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/index.php(17): require('/home/bandhavg/...')
+#13 {main}
+  thrown in /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-content/plugins/seo-by-rank-math/includes/modules/analytics/class-summary.php on line 225
+[04-Jul-2024 06:39:40 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(page)) AS posts, SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wpqn_rank_math_analytics_gsc WHERE created BETWEEN '2024-05-29 00:00:00' AND '2024-07-01 23:59:59' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_dashboard, RankMath\Analytics\Summary->get_analytics_summary, RankMath\Admin\Database\Query_Builder->one
+[04-Jul-2024 06:39:40 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "clicks" on null in /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-content/plugins/seo-by-rank-math/includes/modules/analytics/class-summary.php:225
+Stack trace:
+#0 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-content/plugins/seo-by-rank-math/includes/modules/analytics/rest/class-rest.php(162): RankMath\Analytics\Summary->get_analytics_summary()
+#1 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api/class-wp-rest-server.php(1193): RankMath\Analytics\Rest->get_dashboard()
+#2 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request()
+#3 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch()
+#4 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api.php(424): WP_REST_Server->serve_request()
+#5 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp-hook.php(324): rest_api_loaded()
+#6 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#7 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/plugin.php(565): WP_Hook->do_action()
+#8 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp.php(418): do_action_ref_array()
+#9 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp.php(813): WP->parse_request()
+#10 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/functions.php(1336): WP->main()
+#11 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-blog-header.php(16): wp()
+#12 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/index.php(17): require('/home/bandhavg/...')
+#13 {main}
+  thrown in /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-content/plugins/seo-by-rank-math/includes/modules/analytics/class-summary.php on line 225
+[12-Jul-2024 06:33:02 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_objects' doesn't exist for query SELECT * FROM wpqn_rank_math_analytics_objects WHERE object_id = '55' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_post, RankMath\Analytics\Posts->get_post, RankMath\Admin\Database\Query_Builder->one
+[12-Jul-2024 06:36:05 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(t1.query) AS total,
+				CASE
+					WHEN t1.position BETWEEN 1 AND 3 THEN 'top3'
+					WHEN t1.position BETWEEN 4 AND 10 THEN 'top10'
+					WHEN t1.position BETWEEN 11 AND 50 THEN 'top50'
+					WHEN t1.position BETWEEN 51 AND 100 THEN 'top100'
+					ELSE 'none'
+				END AS position_type
+			FROM (SELECT query, ROUND( AVG(position), 0 ) AS position 
+				FROM wpqn_rank_math_analytics_gsc
+				WHERE created BETWEEN '2024-06-06 00:00:00' AND '2024-07-09 23:59:59' AND DATE(created) = (SELECT MAX(DATE(created)) FROM wpqn_rank_math_analytics_gsc WHERE created BETWEEN '2024-06-06 00:00:00' AND '2024-07-09 23:59:59')
+				GROUP BY query 
+				ORDER BY position) as t1
+			GROUP BY position_type made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_keywords_overview, RankMath\Analytics\Keywords->get_top_keywords
+[12-Jul-2024 06:36:05 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(t1.query) AS total,
+				CASE
+					WHEN t1.position BETWEEN 1 AND 3 THEN 'top3'
+					WHEN t1.position BETWEEN 4 AND 10 THEN 'top10'
+					WHEN t1.position BETWEEN 11 AND 50 THEN 'top50'
+					WHEN t1.position BETWEEN 51 AND 100 THEN 'top100'
+					ELSE 'none'
+				END AS position_type
+			FROM (SELECT query, ROUND( AVG(position), 0 ) AS position 
+				FROM wpqn_rank_math_analytics_gsc
+				WHERE created BETWEEN '2024-05-03 00:00:00' AND '2024-06-05 23:59:59' AND DATE(created) = (SELECT MAX(DATE(created)) FROM wpqn_rank_math_analytics_gsc WHERE created BETWEEN '2024-05-03 00:00:00' AND '2024-06-05 23:59:59')
+				GROUP BY query 
+				ORDER BY position) as t1
+			GROUP BY position_type made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_keywords_overview, RankMath\Analytics\Keywords->get_top_keywords
+[12-Jul-2024 06:36:05 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(page)) AS posts, SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wpqn_rank_math_analytics_gsc WHERE created BETWEEN '2024-06-06 00:00:00' AND '2024-07-09 23:59:59' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_dashboard, RankMath\Analytics\Summary->get_analytics_summary, RankMath\Admin\Database\Query_Builder->one
+[12-Jul-2024 06:36:05 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "clicks" on null in /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-content/plugins/seo-by-rank-math/includes/modules/analytics/class-summary.php:225
+Stack trace:
+#0 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-content/plugins/seo-by-rank-math/includes/modules/analytics/rest/class-rest.php(162): RankMath\Analytics\Summary->get_analytics_summary()
+#1 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api/class-wp-rest-server.php(1193): RankMath\Analytics\Rest->get_dashboard()
+#2 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request()
+#3 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch()
+#4 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api.php(424): WP_REST_Server->serve_request()
+#5 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp-hook.php(324): rest_api_loaded()
+#6 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#7 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/plugin.php(565): WP_Hook->do_action()
+#8 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp.php(418): do_action_ref_array()
+#9 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp.php(813): WP->parse_request()
+#10 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/functions.php(1336): WP->main()
+#11 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-blog-header.php(16): wp()
+#12 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/index.php(17): require('/home/bandhavg/...')
+#13 {main}
+  thrown in /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-content/plugins/seo-by-rank-math/includes/modules/analytics/class-summary.php on line 225
+[12-Jul-2024 06:36:05 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT AVG(ctr) AS ctr FROM wpqn_rank_math_analytics_gsc WHERE created BETWEEN '2024-06-06 00:00:00' AND '2024-07-09 23:59:59' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_keywords_overview, RankMath\Analytics\Keywords->get_top_keywords, RankMath\Admin\Database\Query_Builder->getVar, RankMath\Admin\Database\Query_Builder->one
+[12-Jul-2024 06:36:05 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT AVG(ctr) AS ctr FROM wpqn_rank_math_analytics_gsc WHERE created BETWEEN '2024-05-03 00:00:00' AND '2024-06-05 23:59:59' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_keywords_overview, RankMath\Analytics\Keywords->get_top_keywords, RankMath\Admin\Database\Query_Builder->getVar, RankMath\Admin\Database\Query_Builder->one
+[12-Jul-2024 06:36:05 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT MAX(DATE(created)) as date, CASE WHEN created BETWEEN '2024-06-09 00:00:00' AND '2024-06-14 23:59:59' THEN 'range1' WHEN created BETWEEN '2024-06-15 00:00:00' AND '2024-06-20 23:59:59' THEN 'range2' WHEN created BETWEEN '2024-06-21 00:00:00' AND '2024-06-26 23:59:59' THEN 'range3' WHEN created BETWEEN '2024-06-27 00:00:00' AND '2024-07-02 23:59:59' THEN 'range4' WHEN created BETWEEN '2024-07-03 00:00:00' AND '2024-07-09 23:59:59' THEN 'range5' ELSE 'none' END AS 'range_group'
+			FROM wpqn_rank_math_analytics_gsc
+			WHERE created BETWEEN '2024-06-06 00:00:00' AND '2024-07-09 23:59:59'
+			GROUP BY range_group made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_keywords_overview, RankMath\Analytics\Keywords->get_top_position_graph
+[12-Jul-2024 06:37:11 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(wpqn_rank_math_analytics_gsc.page)) AS posts, SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(ctr) AS ctr FROM wpqn_rank_math_analytics_gsc WHERE wpqn_rank_math_analytics_gsc.created BETWEEN '2024-06-06 00:00:00' AND '2024-07-09 23:59:59' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_analytics_summary, RankMath\Analytics\Summary->get_posts_summary, RankMath\Admin\Database\Query_Builder->one
+[12-Jul-2024 06:37:11 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_objects' doesn't exist for query SELECT COUNT(object_id) AS count,
+				CASE
+					WHEN seo_score BETWEEN 81 AND 100 THEN 'good'
+					WHEN seo_score BETWEEN 51 AND 80 THEN 'ok'
+					WHEN seo_score BETWEEN 1 AND 50 THEN 'bad'
+					WHEN seo_score = 0 THEN 'noData'
+					ELSE 'none'
+				END AS type
+			FROM wpqn_rank_math_analytics_objects
+			WHERE is_indexable = 1
+			
+			GROUP BY type made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_analytics_summary, RankMath\Analytics\Summary->get_optimization_summary
+[12-Jul-2024 06:37:11 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_objects' doesn't exist for query SELECT COUNT(object_id) AS total, SUM(seo_score) AS score FROM wpqn_rank_math_analytics_objects WHERE is_indexable = 1 LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_analytics_summary, RankMath\Analytics\Summary->get_optimization_summary, RankMath\Admin\Database\Query_Builder->one
+[12-Jul-2024 06:37:11 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "total" on null in /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-content/plugins/seo-by-rank-math/includes/modules/analytics/class-summary.php:187
+Stack trace:
+#0 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-content/plugins/seo-by-rank-math/includes/modules/analytics/rest/class-rest.php(180): RankMath\Analytics\Summary->get_optimization_summary()
+#1 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api/class-wp-rest-server.php(1193): RankMath\Analytics\Rest->get_analytics_summary()
+#2 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request()
+#3 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch()
+#4 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api.php(424): WP_REST_Server->serve_request()
+#5 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp-hook.php(324): rest_api_loaded()
+#6 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#7 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/plugin.php(565): WP_Hook->do_action()
+#8 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp.php(418): do_action_ref_array()
+#9 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp.php(813): WP->parse_request()
+#10 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/functions.php(1336): WP->main()
+#11 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-blog-header.php(16): wp()
+#12 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/index.php(17): require('/home/bandhavg/...')
+#13 {main}
+  thrown in /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-content/plugins/seo-by-rank-math/includes/modules/analytics/class-summary.php on line 187
+[12-Jul-2024 06:39:08 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT query
+			FROM wpqn_rank_math_analytics_gsc
+			WHERE DATE(created) = (SELECT MAX(DATE(created)) FROM wpqn_rank_math_analytics_gsc WHERE created BETWEEN '2024-06-06 00:00:00' AND '2024-07-09 23:59:59')
+			GROUP BY query made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Keywords->get_keywords_rows, RankMath\Analytics\Keywords->get_recent_keywords
+[12-Jul-2024 06:39:08 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT
+				t1.query as query, t1.clicks, t1.impressions, t1.ctr,
+				COALESCE( t1.clicks - t2.clicks, 0 ) as diffClicks,
+				COALESCE( t1.impressions - t2.impressions, 0 ) as diffImpressions,
+				COALESCE( t1.ctr - t2.ctr, 0 ) as diffCtr
+			FROM
+				( SELECT query, SUM( clicks ) as clicks, SUM(impressions) as impressions, AVG(ctr) as ctr
+					FROM wpqn_rank_math_analytics_gsc
+					WHERE 1 = 1 AND created BETWEEN '2024-06-06 00:00:00' AND '2024-07-09 23:59:59'  AND query IN ('')
+					GROUP BY query) as t1
+			LEFT JOIN
+				( SELECT query, SUM( clicks ) as clicks, SUM(impressions) as impressions, AVG(ctr) as ctr
+					FROM wpqn_rank_math_analytics_gsc
+					WHERE 1 = 1 AND created BETWEEN '2024-05-03 00:00:00' AND '2024-06-05 23:59:59'  AND query IN ('')
+					GROUP BY query) as t2
+			ON t1.query = t2.query made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Keywords->get_keywords_rows, RankMath\Analytics\Stats->get_analytics_data, RankMath\Analytics\Stats->get_metrics_data_by_dimension
+[12-Jul-2024 06:39:08 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT t1.id as id
+				FROM wpqn_rank_math_analytics_gsc t1
+				INNER JOIN (
+					SELECT query, MAX(created) as latest_created
+					FROM wpqn_rank_math_analytics_gsc
+					WHERE created BETWEEN '2024-06-06 00:00:00' AND '2024-07-09 23:59:59'  AND query IN ('')  AND query IN ('') GROUP BY query
+				) t2 ON t1.query = t2.query AND t1.created = t2.latest_created made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Keywords->get_keywords_rows, RankMath\Analytics\Stats->get_analytics_data, RankMath\Analytics\Stats->get_position_data_by_dimension
+[12-Jul-2024 06:39:08 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT t1.id as id
+				FROM wpqn_rank_math_analytics_gsc t1
+				INNER JOIN (
+					SELECT query, MAX(created) as latest_created
+					FROM wpqn_rank_math_analytics_gsc
+					WHERE created BETWEEN '2024-05-03 00:00:00' AND '2024-06-05 23:59:59'  AND query IN ('')  AND query IN ('') GROUP BY query
+				) t2 ON t1.query = t2.query AND t1.created = t2.latest_created made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Keywords->get_keywords_rows, RankMath\Analytics\Stats->get_analytics_data, RankMath\Analytics\Stats->get_position_data_by_dimension
+[12-Jul-2024 06:39:08 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT
+					t1.query as query, ROUND( t1.position, 0 ) as position,
+					COALESCE( ROUND( t1.position - COALESCE( t2.position, 100 ), 0 ), 0 ) as diffPosition
+				FROM
+					( SELECT a.query, a.position FROM wpqn_rank_math_analytics_gsc AS a WHERE 1 = 1 AND id IN ('')) AS t1
+				LEFT JOIN
+					( SELECT a.query, a.position FROM wpqn_rank_math_analytics_gsc AS a WHERE 1 = 1 AND id IN ('')) AS t2
+				ON t1.query = t2.query
+				 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Keywords->get_keywords_rows, RankMath\Analytics\Stats->get_analytics_data, RankMath\Analytics\Stats->get_position_data_by_dimension
+[12-Jul-2024 06:39:08 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(page)) AS posts, SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wpqn_rank_math_analytics_gsc WHERE created BETWEEN '2024-06-06 00:00:00' AND '2024-07-09 23:59:59' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Summary->get_analytics_summary, RankMath\Admin\Database\Query_Builder->one
+[12-Jul-2024 06:39:08 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "clicks" on null in /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-content/plugins/seo-by-rank-math/includes/modules/analytics/class-summary.php:225
+Stack trace:
+#0 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api/class-wp-rest-server.php(1193): RankMath\Analytics\Summary->get_analytics_summary()
+#1 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request()
+#2 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch()
+#3 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/rest-api.php(424): WP_REST_Server->serve_request()
+#4 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp-hook.php(324): rest_api_loaded()
+#5 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#6 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/plugin.php(565): WP_Hook->do_action()
+#7 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp.php(418): do_action_ref_array()
+#8 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/class-wp.php(813): WP->parse_request()
+#9 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-includes/functions.php(1336): WP->main()
+#10 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-blog-header.php(16): wp()
+#11 /home/bandhavg/ranthamborenationalparkonline.net/latestnews/index.php(17): require('/home/bandhavg/...')
+#12 {main}
+  thrown in /home/bandhavg/ranthamborenationalparkonline.net/latestnews/wp-content/plugins/seo-by-rank-math/includes/modules/analytics/class-summary.php on line 225
+[21-Aug-2024 09:04:45 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wpqn_rank_math_analytics_gsc WHERE created BETWEEN '2024-07-16 00:00:00' AND '2024-08-18 23:59:59' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Rest\Admin->dashboard_widget_items, RankMath\Rest\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics_Common->dashboard_widget, RankMath\Analytics\Analytics_Common->get_dashboard_widget_items, RankMath\Analytics\Summary->get_widget, RankMath\Admin\Database\Query_Builder->one
+[21-Aug-2024 09:04:45 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wpqn_rank_math_analytics_gsc WHERE created BETWEEN '2024-06-12 00:00:00' AND '2024-07-15 23:59:59' LIMIT 0, 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Rest\Admin->dashboard_widget_items, RankMath\Rest\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics_Common->dashboard_widget, RankMath\Analytics\Analytics_Common->get_dashboard_widget_items, RankMath\Analytics\Summary->get_widget, RankMath\Admin\Database\Query_Builder->one
+[21-Aug-2024 09:04:45 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(query))
+				FROM wpqn_rank_math_analytics_gsc
+				WHERE created BETWEEN '2024-07-16 00:00:00' AND '2024-08-18 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Rest\Admin->dashboard_widget_items, RankMath\Rest\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics_Common->dashboard_widget, RankMath\Analytics\Analytics_Common->get_dashboard_widget_items, RankMath\Analytics\Summary->get_widget, RankMath\Analytics\Summary->get_keywords_summary
+[21-Aug-2024 09:04:45 UTC] WordPress database error Table 'bandhavg_wp6461.wpqn_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(query))
+				FROM wpqn_rank_math_analytics_gsc
+				WHERE created BETWEEN '2024-06-12 00:00:00' AND '2024-07-15 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Rest\Admin->dashboard_widget_items, RankMath\Rest\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics_Common->dashboard_widget, RankMath\Analytics\Analytics_Common->get_dashboard_widget_items, RankMath\Analytics\Summary->get_widget, RankMath\Analytics\Summary->get_keywords_summary

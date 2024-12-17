@@ -1,0 +1,898 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Blogig\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-13 11:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.3\n"
+"X-Domain: blogig"
+
+#: inc/extras/helpers.php:339 inc/extras/helpers.php:343
+msgid " min"
+msgstr ""
+
+#: inc/extras/helpers.php:345
+msgid " mins"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:550 inc/admin/class-theme-info.php:551
+#: inc/admin/class-theme-info.php:552
+msgid "(opens in a new tab)"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumbs.php:295
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/template-functions.php:157
+msgid "A - Z"
+msgstr ""
+
+#: inc/widgets/category-collection.php:14
+msgid "A collection of post categories"
+msgstr ""
+
+#: inc/widgets/post-grid.php:14
+msgid "A collection of post in a grid"
+msgstr ""
+
+#: inc/widgets/post-list.php:14
+msgid "A collection of post in a List"
+msgstr ""
+
+#: inc/widgets/tags-collection.php:14
+msgid "A collection of post tags"
+msgstr ""
+
+#: inc/widgets/social-platforms.php:14
+msgid "A collection of social platforms"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:624 inc/admin/class-theme-info.php:643
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/admin/class-theme-info.php:151
+msgid ""
+"Activate Blazethemes Demo Importer Now and Import any available demo in One "
+"Click"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:123
+msgid "Add image"
+msgstr ""
+
+#: inc/widgets/author-info.php:87 inc/widgets/social-platforms.php:38
+#: inc/widgets/category-collection.php:90 inc/widgets/tags-collection.php:65
+#: inc/widgets/post-list.php:122 inc/widgets/post-grid.php:128
+msgid "Add the widget title here"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:94
+msgid "Add url here . ."
+msgstr ""
+
+#: inc/widgets/author-info.php:111
+msgid "Add url here.."
+msgstr ""
+
+#: inc/widgets/widgets.php:19 inc/widgets/widgets.php:32
+#: inc/widgets/widgets.php:45 inc/widgets/widgets.php:58
+#: inc/widgets/widgets.php:71 inc/widgets/widgets.php:84
+#: inc/widgets/widgets.php:97
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/template-tags.php:174 inc/template-tags.php:185
+msgid "ago"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:193
+msgid "All"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:287
+msgid "All in one migration"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:155
+msgid "All Ready for demo import!! Setup your site exactly like demo"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumbs.php:296
+msgid "Archives"
+msgstr ""
+
+#: inc/widgets/author-info.php:99
+msgid "Author Image"
+msgstr ""
+
+#: inc/widgets/author-info.php:88
+msgid "Author Info"
+msgstr ""
+
+#: inc/widgets/author-info.php:93 inc/widgets/author-info.php:94
+msgid "Author Name"
+msgstr ""
+
+#: inc/widgets/author-info.php:104
+msgid "Author Tag"
+msgstr ""
+
+#: inc/widgets/author-info.php:79
+msgid "Author to Display"
+msgstr ""
+
+#: inc/widgets/author-info.php:110
+msgid "Author URL"
+msgstr ""
+
+#: 404.php:31
+msgid "Back To Home"
+msgstr ""
+
+#: inc/customizer/customizer.php:17
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/customizer.php:368
+msgid "Background Color"
+msgstr ""
+
+#. Author of the theme
+msgid "BlazeThemes"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:523
+msgid "BlazeThemes Author Overview"
+msgstr ""
+
+#. Name of the theme
+#: inc/admin/class-theme-info.php:42
+msgid "Blogig"
+msgstr ""
+
+#: inc/theme-starter.php:1142
+msgid "Blogig - Blog WordPress Theme %year%."
+msgstr ""
+
+#: inc/admin/class-theme-info.php:95 inc/admin/class-theme-info.php:96
+msgid "Blogig Options"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:501
+msgid "Blogig Review Notice"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:463
+msgid "Blogig Welcome Notice"
+msgstr ""
+
+#: inc/widgets/category-collection.php:13
+msgid "Blogig: Category Collection"
+msgstr ""
+
+#: inc/widgets/post-grid.php:13
+msgid "Blogig: Post Grid"
+msgstr ""
+
+#: inc/widgets/post-list.php:13
+msgid "Blogig: Post List"
+msgstr ""
+
+#: inc/widgets/social-platforms.php:13
+msgid "Blogig: Social Platforms"
+msgstr ""
+
+#: inc/widgets/tags-collection.php:13
+msgid "Blogig: Tags Collection"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:550
+msgid "Blogs"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumbs.php:293
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumbs.php:292
+msgid "Browse:"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:240
+msgid "Buy Now"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:337
+msgid "Cancel"
+msgstr ""
+
+#: inc/widgets/widgets.php:43
+msgid "Canvas Menu Sidebar"
+msgstr ""
+
+#: inc/widgets/category-collection.php:91
+msgid "Category Collection"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:628 inc/admin/class-theme-info.php:647
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/widgets/post-list.php:143 inc/widgets/post-grid.php:149
+msgid "Choose the author to display list author posts"
+msgstr ""
+
+#: inc/widgets/category-collection.php:97
+msgid "Choose the caategories to display"
+msgstr ""
+
+#: inc/widgets/post-list.php:129 inc/widgets/post-grid.php:135
+msgid "Choose the category to display list of posts"
+msgstr ""
+
+#: inc/widgets/post-list.php:150 inc/widgets/post-grid.php:156
+msgid "Choose the posts to display in the list of posts"
+msgstr ""
+
+#: inc/widgets/post-list.php:157 inc/widgets/post-grid.php:163
+msgid "Choose the posts to exclude from list of posts"
+msgstr ""
+
+#: inc/widgets/post-list.php:136 inc/widgets/post-grid.php:142
+msgid "Choose the tag to display list of posts"
+msgstr ""
+
+#: inc/widgets/tags-collection.php:72
+msgid "Choose the tags to display"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumb-trail/breadcrumbs.php:302
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:65 template-parts/content.php:38
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/widgets/author-info.php:69
+msgid "Custom"
+msgstr ""
+
+#: inc/widgets/author-info.php:80
+msgid "Custom will allow you to diplay below custom content to add."
+msgstr ""
+
+#: inc/admin/class-theme-info.php:473
+msgid "Customize Site"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumbs.php:818
+#: inc/breadcrumb-trail/breadcrumbs.php:1253
+#: inc/breadcrumb-trail/breadcrumbs.php:1255
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:345
+msgid "Demo Import Progress"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:355
+msgid "Demo import success"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:406
+msgid "Demo importer plugin activated"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:419
+msgid "Demo importer plugin installed and activated"
+msgstr ""
+
+#: inc/widgets/author-info.php:116
+msgid "Description"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:508
+msgid "Dismiss Notice"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:479
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/theme-starter.php:1495 inc/theme-starter.php:1510
+msgid "Display Area"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:474
+msgid "Documentation"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:115 template-parts/content-page.php:40
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:423
+msgid "Error while trying to install or active the plugin."
+msgstr ""
+
+#: inc/widgets/social-platforms.php:39
+msgid "Find Me On"
+msgstr ""
+
+#: inc/widgets/widgets.php:56
+msgid "Footer Sidebar - Column 1"
+msgstr ""
+
+#: inc/widgets/widgets.php:69
+msgid "Footer Sidebar - Column 2"
+msgstr ""
+
+#: inc/widgets/widgets.php:82
+msgid "Footer Sidebar - Column 3"
+msgstr ""
+
+#: inc/widgets/widgets.php:95
+msgid "Footer Sidebar - Column 4"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:293
+msgid ""
+"For your website to look exactly like the demo,the import process will "
+"install and activate the following plugin if they are not installed or "
+"activated."
+msgstr ""
+
+#: inc/admin/class-theme-info.php:224
+msgid "Free"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:146
+msgid "Free and Premium Demos"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:140
+msgid "Free vs PRO"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:470
+msgid ""
+"Get started with multipurpose news theme and give your site a new look. We "
+"recommend you to please go through the documentation to get started with "
+"theme and setup homepage quicky."
+msgstr ""
+
+#: inc/widgets/social-platforms.php:66
+msgid "go to manage social icons"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:743
+msgid "Got pre sales queries?"
+msgstr ""
+
+#: inc/extras/extras.php:30
+msgid "H1"
+msgstr ""
+
+#: inc/extras/extras.php:31
+msgid "H2"
+msgstr ""
+
+#: inc/extras/extras.php:32
+msgid "H3"
+msgstr ""
+
+#: inc/extras/extras.php:33
+msgid "H4"
+msgstr ""
+
+#: inc/extras/extras.php:34
+msgid "H5"
+msgstr ""
+
+#: inc/extras/extras.php:35
+msgid "H6"
+msgstr ""
+
+#. %1$s current user display name., %2$s this theme name., %3$s discount coupon code., %4$s discount percentage.
+#: inc/admin/class-theme-info.php:724
+#, php-format
+msgid ""
+"Hello %1$s! We hope you're enjoying the %2$s theme now that you've been "
+"using it for a while. You may always upgrade to pro to gain access to more "
+"premium features. You can also get a %4$s discount by using the promo code "
+"%3$s during checkout. Enjoy! "
+msgstr ""
+
+#: inc/admin/class-theme-info.php:551
+msgid "Help"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Highlight your blog using our unique and stylish mobile-first theme with "
+"dedicated focus on mobile users, SEO, and UI/UX design. SEO options, theme "
+"settings, menu settings, mobile view options, and design controls are all "
+"available in one central place - Live Customizer. Blogig Theme has mobile-"
+"optimized design with options to edit mobile view design and show/hide any "
+"page elements on mobile devices. The theme is designed to showcase visual "
+"storytelling of your blogging adventure to propel your brand to a higher "
+"level. There are multiple pre-built websites available and pre-website "
+"import steps to your blog are minimal to allow for quick setup.Additionally, "
+" there are image Settings - image ratio, image size, image border, image box "
+"shadow in each block and widget. It also has inbuilt custom css code control "
+"from where you can add/modify your site with their own css code to extend "
+"with additional features."
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumbs.php:294
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumbs.php:800
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:504
+msgid "How was your experience using Blogig theme ? "
+msgstr ""
+
+#. URI of the theme
+msgid "https://blazethemes.com/theme/blogig-free"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://blazethemes.com/"
+msgstr ""
+
+#: inc/widgets/post-grid.php:187
+msgid "Image Ratio"
+msgstr ""
+
+#: inc/widgets/post-list.php:169 inc/widgets/post-grid.php:175
+msgid "Image Settings"
+msgstr ""
+
+#: inc/widgets/post-list.php:174 inc/widgets/post-grid.php:180
+msgid "Image Size"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:336
+msgid "Import Demo"
+msgstr ""
+
+#: inc/widgets/social-platforms.php:44
+msgid "Inherit global default social icons color"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:246
+msgid "Install"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:153
+msgid ""
+"Install BlazeThemes Demo Importer and Import any available demo in One Click"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:472
+msgid "Install Demos"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:383
+msgid "Installed and Active"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:387
+msgid "Installed but Not Active"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:330
+msgid ""
+"It is always recommended to reset the database for a complete demo import."
+msgstr ""
+
+#: 404.php:28
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:269
+msgid ""
+"It looks like the config file for the demos is missing or conatins errors!. "
+"Demo install can't go futher!"
+msgstr ""
+
+#: template-parts/content-none.php:48
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/custom-controls/repeater/repeater.php:122
+msgid "Item Label"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:507
+msgid "Leave A Review"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:134
+msgid "Leave a review"
+msgstr ""
+
+#: inc/widgets/widgets.php:30
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/widgets/author-info.php:117
+msgid ""
+"Lorem ipsum is simply dummy text is simply dummy text Lorem ipsum is simply "
+"dummy text.."
+msgstr ""
+
+#: inc/widgets/social-platforms.php:65
+msgid "Manage social icons from customizer "
+msgstr ""
+
+#: inc/admin/class-theme-info.php:740
+msgid "Maybe later"
+msgstr ""
+
+#: inc/hooks/header-hooks.php:59
+msgid "Menu"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/breadcrumb-trail/breadcrumbs.php:304
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumbs.php:766
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumbs.php:783
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumbs.php:817
+#: inc/breadcrumb-trail/breadcrumbs.php:873
+#: inc/breadcrumb-trail/breadcrumbs.php:1246
+#: inc/breadcrumb-trail/breadcrumbs.php:1248
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/theme-starter.php:232
+msgid "More"
+msgstr ""
+
+#: inc/template-functions.php:155
+msgid "Newest - Oldest"
+msgstr ""
+
+#: inc/template-functions.php:160
+msgid "Newsest - Oldest( modified )"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:321
+msgid "No Required Plugins Found."
+msgstr ""
+
+#: inc/customizer/custom-controls/icon-picker/icon-picker.php:52
+msgid "None"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:379
+msgid "Not Installed"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/widgets/post-list.php:162 inc/widgets/post-grid.php:168
+msgid "Number of posts to show"
+msgstr ""
+
+#: inc/template-functions.php:156
+msgid "Oldest - Newest"
+msgstr ""
+
+#: inc/template-functions.php:161
+msgid "Oldest - Newest( modified )"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumb-trail/breadcrumbs.php:300
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: template-parts/content-single.php:79 template-parts/content-page.php:26
+#: template-parts/content.php:51
+msgid "Pages:"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:59
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: inc/widgets/post-list.php:142 inc/widgets/post-grid.php:148
+msgid "Post Authors"
+msgstr ""
+
+#: inc/widgets/category-collection.php:96 inc/widgets/post-list.php:128
+#: inc/widgets/post-grid.php:134
+msgid "Post Categories"
+msgstr ""
+
+#: inc/widgets/post-grid.php:129
+msgid "Post Grid"
+msgstr ""
+
+#: inc/widgets/post-list.php:123
+msgid "Post List"
+msgstr ""
+
+#: inc/widgets/post-list.php:135 inc/widgets/post-grid.php:141
+msgid "Post Tags"
+msgstr ""
+
+#: inc/widgets/tags-collection.php:71
+msgid "Post tags"
+msgstr ""
+
+#: inc/widgets/post-list.php:156 inc/widgets/post-grid.php:162
+msgid "Post to Exclude"
+msgstr ""
+
+#: inc/widgets/post-list.php:149 inc/widgets/post-grid.php:155
+msgid "Post to Include"
+msgstr ""
+
+#: inc/template-functions.php:163
+msgid "Posts with least comments first"
+msgstr ""
+
+#: inc/template-functions.php:162
+msgid "Posts with most comments first"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:233
+msgid "Preview"
+msgstr ""
+
+#: functions.php:58
+msgid "Primary"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:221
+msgid "Pro"
+msgstr ""
+
+#: inc/template-functions.php:159
+msgid "Random"
+msgstr ""
+
+#: inc/theme-starter.php:314
+msgid "Read More"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/theme-starter.php:653
+msgid "Related Articles"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:127
+msgid "Remove image"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:292
+msgid "Required Plugins"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:328
+msgid "Reset Website"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:329
+msgid ""
+"Reseting the website will delete all your post, pages, custom post types, "
+"categories, taxonomies, images and all other customizer and theme option "
+"settings."
+msgstr ""
+
+#: inc/admin/class-theme-info.php:434
+msgid "Review notice hidden."
+msgstr ""
+
+#. %s: search query.
+#: search.php:25
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. %s is the search query.
+#: inc/breadcrumb-trail/breadcrumbs.php:298
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:116
+msgid "Setup Tutorials"
+msgstr ""
+
+#: inc/widgets/widgets.php:17
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/theme-starter.php:186
+msgid "Subscribe"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:122
+msgid "Support"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:100
+#, php-format
+msgid "Tagged: %1$s"
+msgstr ""
+
+#: inc/widgets/tags-collection.php:66
+msgid "Tags Collection"
+msgstr ""
+
+#: inc/widgets/author-info.php:14
+msgid "The information of author in detail."
+msgstr ""
+
+#: inc/admin/class-theme-info.php:128
+msgid "Theme demo"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:289
+msgid ""
+"This process will install all the required plugins, import contents and "
+"setup customizer and theme options."
+msgstr ""
+
+#: inc/customizer/custom-controls/repeater/repeater.php:175
+msgid "Type to search"
+msgstr ""
+
+#: inc/customizer/custom-controls/icon-picker/icon-picker.php:67
+msgid "Type to search . ."
+msgstr ""
+
+#: inc/admin/class-theme-info.php:552
+msgid "Upgrade"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:737
+msgid "Upgrade to pro"
+msgstr ""
+
+#: inc/customizer/custom-controls/repeater/repeater.php:157
+msgid "Upload Image"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:505
+msgid ""
+"We are constantly striving to improve and we'd like to hear from you. Hope "
+"you spend your few seconds reviewing our product. We appreciate your time "
+"and feedback! Thank you!!"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:287
+#, php-format
+msgid ""
+"We recommend you backup your website content before attempting to import the "
+"demo so that you can recover your website if something goes wrong. You can "
+"use %s plugin for it."
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/breadcrumb-trail/breadcrumbs.php:306
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumbs.php:846
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/widgets/author-info.php:86 inc/widgets/social-platforms.php:37
+msgid "Widget Title"
+msgstr ""
+
+#: inc/widgets/author-info.php:105
+msgid "Writer"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumbs.php:816
+#: inc/breadcrumb-trail/breadcrumbs.php:845
+#: inc/breadcrumb-trail/breadcrumbs.php:872
+#: inc/breadcrumb-trail/breadcrumbs.php:899
+#: inc/breadcrumb-trail/breadcrumbs.php:1238
+#: inc/breadcrumb-trail/breadcrumbs.php:1240
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:469
+msgid "You have successfully activated Blogig !! "
+msgstr ""
+
+#: inc/template-functions.php:158
+msgid "Z - A"
+msgstr ""
